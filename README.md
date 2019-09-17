@@ -7,5 +7,5 @@ SCG Test Back-end (PHP)
 
 ``` bash
 # Development Server started
-cd scg-test-backend
+cd scg-test-backend-master
 php -S 0.0.0.0:8081 api_restaurants.php
